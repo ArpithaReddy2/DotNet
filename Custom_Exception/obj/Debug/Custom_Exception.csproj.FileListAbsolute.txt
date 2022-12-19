@@ -1,0 +1,2 @@
+C:\Users\aap2\OneDrive - DXC Production\Desktop\Tasks\Custom_Exception\obj\Debug\Custom_Exception.csproj.AssemblyReference.cache
+C:\Users\aap2\OneDrive - DXC Production\Desktop\Tasks\Custom_Exception\obj\Debug\Custom_Exception.csproj.CoreCompileInputs.cache
